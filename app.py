@@ -532,7 +532,7 @@ else:
 # =========================================================
 
 st.markdown(
-    '<div class="section-title">🚨 System Alerts</div>',
+    '<div class="section-title"90>🚨 System Alerts</div>',
     unsafe_allow_html=True
 )
 
